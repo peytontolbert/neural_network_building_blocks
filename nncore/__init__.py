@@ -18,13 +18,13 @@ from . import memory
 from . import adaptive
 
 __all__ = [
-    'core_layers',
-    'attention',
-    'norm_reg',
-    'advanced_blocks',
-    'composition',
-    'agent_blocks',
-    'multimodal',
-    'memory',
-    'adaptive'
-] 
+    "core_layers",
+    "attention",
+    "norm_reg",
+    "advanced_blocks",
+    "composition",
+    "agent_blocks",
+    "multimodal",
+    "memory",
+    "adaptive",
+]

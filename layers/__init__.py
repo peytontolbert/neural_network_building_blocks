@@ -11,5 +11,5 @@ __all__ = [
     "SelfAttention",
     "ResidualBlock",
     "SequentialBlock",
-    "get_layer"
-] 
+    "get_layer",
+]
